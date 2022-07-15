@@ -1,6 +1,7 @@
 # Hello There :black_heart:
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=karanalpe&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?devSantos16=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devSantos16&hide=contribs,prs)
 
 <!--
 **devSantos16/devSantos16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
