@@ -1,8 +1,8 @@
 # Hello There :black_heart:
 Meu nome é Emanuel, tenho 22 anos e atualmente estudo programação por diversão, lazer e novas oportunidade no mercado de trabalho.
 
-<div align="center">
-  <div style="display: flex; width=80px; height: auto">
+<div>
+  <div style="display: flex; width=80px; height:auto">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&  text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
     <img src="https://github-readme-stats.vercel.app/api?username=devSantos16&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
   </div>
