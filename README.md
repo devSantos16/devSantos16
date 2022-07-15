@@ -2,8 +2,8 @@
 
 <div align="center">
   <div style="display: flex; gap: 200px;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&       text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=devSantos16&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&               bg_color=151515" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&  text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=devSantos16&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&        bg_color=151515" />
   </div>
 </div
 
