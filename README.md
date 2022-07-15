@@ -1,11 +1,20 @@
 # Hello There :black_heart:
 Meu nome é Emanuel, tenho 22 anos e atualmente estudo programação por diversão, lazer e novas oportunidade no mercado de trabalho.
 
-<div>
-  <div style="display: flex; width=80px; height:auto">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&  text_color=daf7dc&bg_color=151515" style="vertical-align: top;" />
-    <img src="https://github-readme-stats.vercel.app/api?username=devSantos16&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515"/>
-  </div>
+<div align="center">
+  <a href="https://github.com/devSantos16">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devSantos16&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devSantos16&layout=compact&langs_count=7&theme=dark"/>
+</div>
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  
 </div>
 <div align="center" style = "margin-top: 40px;"> 
   <a href="https://www.instagram.com/manuh_santos218/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
