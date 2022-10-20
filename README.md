@@ -1,5 +1,5 @@
 # Hello There :brazil:
-### Meu nome é Emanuel, tenho 22 anos e atualmente sou estudante de programação e futuro Desenvolvedor Front-end.
+### Meu nome é Emanuel, tenho 22 anos e atualmente sou estudante de programação e futuro Desenvolvedor .NET.
 
 <div align="center" style = "margin-top: 20px">
   <a href="https://github.com/devSantos16">
