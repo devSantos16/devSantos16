@@ -1,5 +1,5 @@
 # Hello There :brazil:
-### Meu nome é Emanuel, tenho 22 anos e atualmente sou estudante de programação e futuro Desenvolvedor .NET.
+### Meu nome é Emanuel, tenho 22 anos e atualmente sou desenvolvedor de Software de Alto Nível
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
