@@ -1,5 +1,7 @@
-# :brazil:
- Hi there. My name is Emanuel. I'm 23 years old, and I'm actually a high-level software engineer.
+<div align ="center">
+  Hi there. My name is Emanuel. I'm 23 years old, and I'm actually a high-level software engineer.
+</div>
+<br>
 <div align="center" style="display: inline_block">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
